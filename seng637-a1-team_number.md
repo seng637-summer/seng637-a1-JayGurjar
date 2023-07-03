@@ -15,12 +15,12 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0Î²33
-* Mon Jan 24 2022 19:42:08 GMT-0800 (PST)
-* Source doc: SENG 438 Assignment 1 Report
+* Mon July 4 2023 19:42:08 GMT-0800 (PST)
+* Source doc: SENG 637 Assignment 1 Report
 * Tables are currently converted to HTML tables.
 ----->
 
-# Lab Report - Assignment 1 - Group 18
+# Lab Report - Assignment 1 - Group 3
 
 <table>
   <tr>
